@@ -247,26 +247,26 @@ body {
 		text-align: left;
 	}
 
-	.conteudoPrincipal-cursos-link:nth-child(3n) {
+	.conteudoPrincipal-cursos-link:nth-child(4n) {
 		margin-right: 0;
 	}
 
-	.conteudoPrincipal-cursos-link:nth-child(3n+1) {
+	.conteudoPrincipal-cursos-link:nth-child(4n+1) {
 		margin-left: 0;
 	}
 
 }
 
-@media(min-width: 1000px) {
+@media(min-width: 769px) {
 	.conteudoPrincipal-cursos-link {
 		margin: 1.333%;
 	}
 
-	.conteudoPrincipal-cursos-link:nth-child(3n) {
+	.conteudoPrincipal-cursos-link:nth-child(4n) {
 		margin-right: 1.33%;
 	}
 
-	.conteudoPrincipal-cursos-link:nth-child(3n+1) {
+	.conteudoPrincipal-cursos-link:nth-child(4n+1) {
 		margin-left: 1.333%;
 	}
 
